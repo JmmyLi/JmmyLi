@@ -11,5 +11,5 @@
 
 -  Hi, I’m @JmmyLi
 -  I’m currently learning cpp, python, java and HTML.
--  You could reach me via jimmyli114514@gmail.com.
+-  You can reach me via jimmyli114514@gmail.com.
 
