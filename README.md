@@ -10,6 +10,6 @@
  </table>
 
 -  Hi, I’m @JmmyLi
--  I’m currently learning cpp, python, java and HTML.
+-  I’m currently learning c, cpp, python, java and HTML.
 -  You can reach me via jimmyli114514@gmail.com.
 
